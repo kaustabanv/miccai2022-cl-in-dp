@@ -1,7 +1,7 @@
 # Characterizing Continual Learning Scenarios for Tumor Classification in Histopathology Images
 Supplemental information to accompany paper on Characterizing Continual Learning Scenarios for Tumor Classification in Histopathology Images (MICCAI MOVI 2022) <br/>
 
-**Pseudo Code for Creating Augmented CRC Dataset**
+**Pseudocode for Creating Augmented CRC Dataset**
 ---
 1. Split publically available H&E CRC dataset into 5 equal sections to simulate 5 data sources.
 2. Keep section 1 unchanged. This is referred to as "Domain 1".
